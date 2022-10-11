@@ -1,3 +1,8 @@
+-V4.FG.1
+	Added custom gas limits for Grid Trading (MUST BE SET PRIOR TO TRADES IF UPGRADING)
+	Fixed bug with pricing on some forms of pairs
+	Other bug fixes
+
 -V4.MP.2
 	Fixed Bug With Stoploss
 
