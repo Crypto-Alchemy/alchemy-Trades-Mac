@@ -1,9 +1,0 @@
--V4.MP.2
-	Fixed Bug With Stoploss
-
-
--V4.MP.1
-	Removed Realized Info
-	Added in User Agreements (which can be disabled in the settings file with the EULA tab)
-	Added the ability to set custom slippage in Grids
-	Fixed Token/Native Token pricing (LINK/WBNB, NITRO/MATIC, etc)
