@@ -1,3 +1,22 @@
+-V4.FG.3
+	Timer fixed
+	Ability to leave grid and come back (including leave browser and come back)
+	Increased UI stability
+	Increased Web3 stability
+	Custom RPCs
+	Fixed WFTM
+	Added Telegram for buys and sells, and alerts if your bot crashes due to failed TX or Stoploss
+	Changed fail tx error to happen after 5 consecutive fails.
+
+-V4.FG.2
+	Tamed Matic
+	Fixed PCS error with inputs
+
+-V4.FG.1 - STILL, because Alch is on vacation and we didnt change the version
+	Added custom port options
+	Added new machine fingerprint to prevent unnecessary license locks
+	Added hotfix, after 10 failed TX bot stops
+
 -V4.FG.1
 	Added custom gas limits for Grid Trading (MUST BE SET PRIOR TO TRADES IF UPGRADING)
 	Fixed bug with pricing on some forms of pairs
