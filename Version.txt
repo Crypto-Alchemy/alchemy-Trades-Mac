@@ -1,3 +1,13 @@
+-V4.EMP.3
+	New Charting System
+
+-V4.EMP.2
+	Bug Fixes
+
+-V4.EMP.1
+	Bug Fixes
+	Added EMP Support
+
 -V4.FG.3
 	Timer fixed
 	Ability to leave grid and come back (including leave browser and come back)
