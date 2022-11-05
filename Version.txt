@@ -1,3 +1,7 @@
+-V4.EMP.5
+	Bug Fixes
+	Fixed Chart issues
+
 -V4.EMP.4
 	Bug Fixes
 
