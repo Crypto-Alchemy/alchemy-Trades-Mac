@@ -1,3 +1,6 @@
+-V4.EMP.6
+	Fixes to help with bot dying due to failed TXs
+
 -V4.EMP.5
 	Bug Fixes
 	Fixed Chart issues
